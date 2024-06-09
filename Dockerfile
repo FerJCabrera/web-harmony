@@ -28,5 +28,10 @@ RUN echo "ServerName localhost" >> /etc/apache2/apache2.conf
 # Exponer el puerto 80
 EXPOSE 80
 
+# Añade esto antes del CMD
+RUN apt-get install -y net-tools
+CMD netstat -an | grep 80
+
+
 # Comando para ejecutar el servidor
 CMD ["apache2-foreground"]
