@@ -22,6 +22,9 @@ COPY . .
 # Instala las dependencias de Composer
 RUN composer install
 
+# Configura ServerName para evitar advertencias
+RUN echo "ServerName localhost" >> /etc/apache2/apache2.conf
+
 # Exponer el puerto 80
 EXPOSE 80
 
