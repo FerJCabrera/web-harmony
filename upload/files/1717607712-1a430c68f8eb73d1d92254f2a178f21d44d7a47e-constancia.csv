@@ -1,0 +1,45 @@
+Element Type,Details,Timestamp
+Header,Resultado de la búsqueda,2024-06-05 11:14:59
+Header,Te ayudamos,2024-06-05 11:14:59
+Header,Portal de Trámitesy Servicios,2024-06-05 11:14:59
+Header,Buzón Tributario,2024-06-05 11:14:59
+Header,Enlaces a otros organismos,2024-06-05 11:14:59
+Header,Contacto,2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: words",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: resultadosPagina",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: numeroResultados",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: paginaActual",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: lt_registros",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: lt_ResultadoBusqueda",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: lt_OrdenadoPor",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: tipobusqueda",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: exact",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: exactoption",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: category",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: subcategory",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: idx",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: searchOn",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: datestart",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: dateend",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: total",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: urlnueva",2024-06-05 11:14:59
+Input Field,"Type: text, Name: rem_nombre_appellido",2024-06-05 11:14:59
+Input Field,"Type: text, Name: rem_email",2024-06-05 11:14:59
+Input Field,"Type: checkbox, Name: to_me_too",2024-06-05 11:14:59
+Input Field,"Type: text, Name: dest_nombre_apellidos",2024-06-05 11:14:59
+Input Field,"Type: text, Name: dest_email",2024-06-05 11:14:59
+Input Field,"Type: text, Name: capturaCaptcha",2024-06-05 11:14:59
+Input Field,"Type: text, Name: words",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: locale",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: tipobusqueda",2024-06-05 11:14:59
+Input Field,"Type: submit, Name: unnamed",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: locale",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: tipobusqueda",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: words",2024-06-05 11:14:59
+Input Field,"Type: text, Name: words",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: tipobusqueda",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: locale",2024-06-05 11:14:59
+Input Field,"Type: image, Name: unnamed",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: locale",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: tipobusqueda",2024-06-05 11:14:59
+Input Field,"Type: hidden, Name: words",2024-06-05 11:14:59

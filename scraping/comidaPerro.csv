@@ -1,0 +1,33 @@
+Element Type,Details,Timestamp
+Header,Promociones exclusivas con,2024-06-03 20:16:57
+Header,Verano Loco,2024-06-03 20:16:57
+Header,Nuevos Productos,2024-06-03 20:16:57
+Header,Vive Saludable,2024-06-03 20:16:57
+Header,Mascotas,2024-06-03 20:16:57
+Header,Exclusivos en línea,2024-06-03 20:16:57
+Header,Live,2024-06-03 20:16:57
+Header,Promociones,2024-06-03 20:16:57
+Header,Filtros,2024-06-03 20:16:57
+Header,comida para perro,2024-06-03 20:16:57
+Input Field,"Type: text, Name: unnamed",2024-06-03 20:16:57
+Input Field,"Type: checkbox, Name: Mascotas",2024-06-03 20:16:57
+Input Field,"Type: checkbox, Name: Perros",2024-06-03 20:16:57
+Input Field,"Type: checkbox, Name: Alimento Húmedo",2024-06-03 20:16:57
+Input Field,"Type: checkbox, Name: Collares y accesorios",2024-06-03 20:16:57
+Input Field,"Type: checkbox, Name: Cuidado y Limpieza",2024-06-03 20:16:57
+Input Field,"Type: checkbox, Name: Juguetes",2024-06-03 20:16:57
+Input Field,"Type: text, Name: newsletter",2024-06-03 20:16:57
+Button,,2024-06-03 20:16:57
+Button,Iniciar sesión,2024-06-03 20:16:57
+Button,,2024-06-03 20:16:57
+Button,Ordenar por,2024-06-03 20:16:57
+Button,Relevancia,2024-06-03 20:16:57
+Button,Ventas,2024-06-03 20:16:57
+Button,Más reciente,2024-06-03 20:16:57
+Button,Descuento,2024-06-03 20:16:57
+Button,Precios más alto,2024-06-03 20:16:57
+Button,Precios más bajo,2024-06-03 20:16:57
+Button,"Nombre, creciente",2024-06-03 20:16:57
+Button,"Nombre, decreciente",2024-06-03 20:16:57
+Button,Suscríbete,2024-06-03 20:16:57
+Button,,2024-06-03 20:16:57
