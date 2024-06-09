@@ -4,13 +4,23 @@ FROM php:7.4-apache
 # Establece el directorio de trabajo
 WORKDIR /var/www/html
 
+# Instala las dependencias necesarias
+RUN apt-get update && apt-get install -y \
+    libfreetype6-dev \
+    libjpeg62-turbo-dev \
+    libpng-dev \
+    && docker-php-ext-configure gd --with-freetype --with-jpeg \
+    && docker-php-ext-install -j$(nproc) gd \
+    && docker-php-ext-install mysqli pdo pdo_mysql
+
+# Instala Composer
+RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
+
 # Copia el contenido del proyecto al contenedor
 COPY . .
 
 # Instala las dependencias de Composer
-RUN docker-php-ext-install mysqli pdo pdo_mysql && \
-    curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer && \
-    composer install
+RUN composer install
 
 # Exponer el puerto 80
 EXPOSE 80
