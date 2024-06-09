@@ -1,12 +1,14 @@
 {
-    "name": "projectsend",
-    "description": "ProjectSend is an open source, clients-oriented, private file sharing web application.",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/projectsend/projectsend.git"
-    },
-    "author": "Ignacio Nelson <info@subwaydesign.com.ar>",
-    "license": "GPL-3.0-or-later",
+  "name": "web-harmony",
+  "version": "1.0.0",
+  "description": "Proyecto web harmony",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FerJCabrera",
+  "license": "ISC",
     "dependencies": {
         "@ckeditor/ckeditor5-build-classic": "^23.1.0",
         "@yaireo/tagify": "4.12.0",
