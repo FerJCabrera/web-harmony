@@ -3,12 +3,6 @@
 	"description": " ",
 	"type": "project",
 	"license": "GPL-3.0-or-later",
-	"homepage": " ",
-	"support": {
-			"email": " ",
-			"issues": " ",
-			"source": " "
-	},
 	"config": {
 		"preferred-install": "dist"
 	},
